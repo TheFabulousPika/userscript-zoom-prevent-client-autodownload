@@ -1,4 +1,4 @@
 # userscript-zoom-prevent-client-autodownload
-Prevents Zoom client from auto-downloading when joining a meeting from browser.
+This is a userscript that prevents Zoom client from auto-downloading when joining a meeting from browser.
 
-Use in <a href="https://www.tampermonkey.net/">Tampermonkey</a>.
+Use a userscript manager such as <a href="https://www.tampermonkey.net/">Tampermonkey</a> to add to your browser.
